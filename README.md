@@ -1,4 +1,4 @@
-# Pakuan — Eat-On 
+# Pakuan — Eat-On
 
 Aplikasi pemesanan makanan sederhana (Laravel) untuk demo dan pengembangan lokal.
 
